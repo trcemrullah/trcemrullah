@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emrullah Mustafa TERECE</h1>
 <h3 align="center">Amazon Global Seller and Web Developer</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:e.trc2464@gmailcom</h3>
 <p align="left">
 </p>
 
